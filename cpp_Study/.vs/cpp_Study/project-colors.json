@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9b7129f-2232-408c-a6ea-0973236170d1": {
+      "ProjectGuid": "f9b7129f-2232-408c-a6ea-0973236170d1",
+      "DisplayName": "cpp_Study",
+      "ColorIndex": 0
+    },
+    "e777a69c-f026-4139-9cef-5dc732dfd5a6": {
+      "ProjectGuid": "e777a69c-f026-4139-9cef-5dc732dfd5a6",
+      "DisplayName": "cpp_pointer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
