@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayTest.cpp" />
     <ClCompile Include="lotto.cpp" />
     <ClCompile Include="pointer_Study.cpp" />
     <ClCompile Include="StringTest1.cpp" />
