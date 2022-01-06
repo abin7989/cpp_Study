@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_Study", "cpp_Study\cpp_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_pointer", "cpp_pointer\cpp_pointer.vcxproj", "{E777A69C-F026-4139-9CEF-5DC732DFD5A6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_TextRPG", "cpp_TextRPG\cpp_TextRPG.vcxproj", "{F8CAA699-DDC2-47D2-9B67-5195A243363F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E777A69C-F026-4139-9CEF-5DC732DFD5A6}.Release|x64.Build.0 = Release|x64
 		{E777A69C-F026-4139-9CEF-5DC732DFD5A6}.Release|x86.ActiveCfg = Release|Win32
 		{E777A69C-F026-4139-9CEF-5DC732DFD5A6}.Release|x86.Build.0 = Release|Win32
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Debug|x64.ActiveCfg = Debug|x64
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Debug|x64.Build.0 = Debug|x64
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Debug|x86.Build.0 = Debug|Win32
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Release|x64.ActiveCfg = Release|x64
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Release|x64.Build.0 = Release|x64
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Release|x86.ActiveCfg = Release|Win32
+		{F8CAA699-DDC2-47D2-9B67-5195A243363F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
