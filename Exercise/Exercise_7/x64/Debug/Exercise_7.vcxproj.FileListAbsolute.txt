@@ -1,0 +1,2 @@
+C:\Users\abin7\OneDrive - 호서대학교\바탕 화면\cpp\cpp_Study\Exercise\x64\Debug\Exercise_7.exe.lastcodeanalysissucceeded
+C:\Users\abin7\OneDrive - 호서대학교\바탕 화면\cpp\cpp_Study\Exercise\Exercise_7\x64\Debug\NativeCodeAnalysis.read.1.tlog

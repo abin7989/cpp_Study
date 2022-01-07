@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d33aa04b-2de8-4744-a423-0749f2bea004": {
+      "ProjectGuid": "d33aa04b-2de8-4744-a423-0749f2bea004",
+      "DisplayName": "Exercise_1",
+      "ColorIndex": 0
+    },
+    "bf88ba6e-7e62-4675-a2b8-20bdd6af1d30": {
+      "ProjectGuid": "bf88ba6e-7e62-4675-a2b8-20bdd6af1d30",
+      "DisplayName": "Exercise_2",
+      "ColorIndex": 1
+    },
+    "5def8b5b-a540-444b-add1-840a4b829884": {
+      "ProjectGuid": "5def8b5b-a540-444b-add1-840a4b829884",
+      "DisplayName": "Exercise_3",
+      "ColorIndex": 2
+    },
+    "81d96685-8454-4372-919f-ce6bab58f010": {
+      "ProjectGuid": "81d96685-8454-4372-919f-ce6bab58f010",
+      "DisplayName": "Exercise_4",
+      "ColorIndex": 3
+    },
+    "3d854c5c-78b1-4f0f-bfb2-35b4cf771159": {
+      "ProjectGuid": "3d854c5c-78b1-4f0f-bfb2-35b4cf771159",
+      "DisplayName": "Exercise_5",
+      "ColorIndex": 4
+    },
+    "0000adbe-8d6a-4b76-9fc5-90522bc9e3d2": {
+      "ProjectGuid": "0000adbe-8d6a-4b76-9fc5-90522bc9e3d2",
+      "DisplayName": "Exercise_6",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "fd56995d-044c-4a7f-8eb0-34cfa863c60c": {
+      "ProjectGuid": "fd56995d-044c-4a7f-8eb0-34cfa863c60c",
+      "DisplayName": "Exercise_7",
+      "ColorIndex": 6
+    },
+    "9194a8f0-7452-4a91-82bc-bb2160ae03e5": {
+      "ProjectGuid": "9194a8f0-7452-4a91-82bc-bb2160ae03e5",
+      "DisplayName": "Exercise_8",
+      "ColorIndex": 7
+    },
+    "05ba32a5-c7b4-4e71-accb-450aad6234ba": {
+      "ProjectGuid": "05ba32a5-c7b4-4e71-accb-450aad6234ba",
+      "DisplayName": "Exercise_9",
+      "ColorIndex": 8
+    },
+    "8ea65996-e594-46d6-8ead-7fc7ed84bf4e": {
+      "ProjectGuid": "8ea65996-e594-46d6-8ead-7fc7ed84bf4e",
+      "DisplayName": "Exercise_A",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
