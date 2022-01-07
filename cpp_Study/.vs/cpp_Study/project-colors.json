@@ -20,7 +20,17 @@
       "ProjectGuid": "f8caa699-ddc2-47d2-9b67-5195a243363f",
       "DisplayName": "cpp_TextRPG",
       "ColorIndex": 2
+    },
+    "5d79c86d-b32e-4f8c-941a-71ba5845ef7a": {
+      "ProjectGuid": "5d79c86d-b32e-4f8c-941a-71ba5845ef7a",
+      "DisplayName": "cpp_Callback",
+      "ColorIndex": 3
+    },
+    "8f02c4b5-3cd3-41f1-85d1-cd6df9c710f6": {
+      "ProjectGuid": "8f02c4b5-3cd3-41f1-85d1-cd6df9c710f6",
+      "DisplayName": "cpp_STL",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
