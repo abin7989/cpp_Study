@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cpp_algorithm.cpp" />
     <ClCompile Include="cpp_List.cpp" />
     <ClCompile Include="cpp_List_ClonCoding.cpp" />
     <ClCompile Include="cpp_Vector.cpp" />
