@@ -1,0 +1,9 @@
+﻿  Creature.cpp
+  Field.cpp
+  Game.cpp
+  main.cpp
+C:\Users\abin7\OneDrive - 호서대학교\바탕 화면\cpp\cpp_Study\cpp_Study\cpp_TextRPG\main.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Player.cpp
+  Monster.cpp
+  코드를 생성하고 있습니다...
+  cpp_TextRPG.vcxproj -> C:\Users\abin7\OneDrive - 호서대학교\바탕 화면\cpp\cpp_Study\cpp_Study\Debug\cpp_TextRPG.exe
