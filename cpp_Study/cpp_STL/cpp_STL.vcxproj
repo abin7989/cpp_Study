@@ -140,7 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cpp_List.cpp" />
+    <ClCompile Include="cpp_List_ClonCoding.cpp" />
     <ClCompile Include="cpp_Vector.cpp" />
+    <ClCompile Include="cpp_Vector_Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
