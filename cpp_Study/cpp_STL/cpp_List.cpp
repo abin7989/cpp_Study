@@ -7,6 +7,7 @@ using namespace std;
 template<typename T>
 class Node
 {
+public:
 	Node() :next(nullptr), prev(nullptr), value(T())
 	{
 
@@ -160,6 +161,7 @@ public:
 			_point.ptr->next->prev = _point.ptr->prev;
 			delete _point.ptr;
 			_point.ptr = nullptr;
+			size--;
 		}
 	}
 	iterator begin()
